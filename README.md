@@ -97,7 +97,10 @@ df.corr()
 
 sns.heatmap(df.corr(),annot=True)
 ```
-### OUTPUT:
+### Developed by: Yuvarani T
+### Register no:212222110057
+
+## OUTPUT:
 ### Data frame of SuperStore
 ![image](https://github.com/Yuvaranithulasingam/ODD2023-Datascience-Ex-04/assets/121418522/acb956fc-1b40-4955-bb07-0e9b0d31a231)
 
